@@ -80,12 +80,12 @@ Here is the link to access the application: https://dinesmart-3bij6bnbhq-uc.a.ru
 
 ## Project Structure
 
-DineSmart-Chatbot/
-│
-├── main.py # Main application file
-├── requirements.txt # Python dependencies
-├── .env # Environment variables
-├── README.md # Project documentation
+
+DineSmart-Chatbot <br />
+├── main.py # Main application file <br />
+├── requirements.txt # Python dependencies <br />
+├── .env # Environment variables <br />
+├── README.md # Project documentation <br />
 
 
 ## Contributing

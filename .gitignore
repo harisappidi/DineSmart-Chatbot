@@ -1,0 +1,5 @@
+# .gitignore
+
+.env
+Dockerfile
+dinesmart-430016-60a9fdbd5130.json

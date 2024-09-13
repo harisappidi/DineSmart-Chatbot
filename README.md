@@ -2,8 +2,6 @@
 
 DineSmart is an innovative AI-powered chatbot designed to simplify the process of finding the perfect restaurant. This project leverages Google Vertex AI and Google Maps API to provide users with personalized and real-time restaurant recommendations based on their specific preferences for cuisine and location. The application is deployed on Google Cloud Platform (GCP).
 
-Here is the link to access the application: https://dinesmart-3bij6bnbhq-uc.a.run.app
-
 ## Features
 
 - **Restaurant Search**: Find restaurants based on specific cuisine and location.
